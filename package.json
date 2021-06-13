@@ -1,6 +1,6 @@
 {
-  "name": "@xx-amrhossam-xx/github-package-2",
-  "version": "1.0.0",
+  "name": "github-package-2",
+  "version": "2.0.0",
   "description": "Learning creating packages",
   "main": "index.js",
   "scripts": {
